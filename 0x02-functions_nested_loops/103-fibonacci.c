@@ -15,7 +15,7 @@ int main(void)
 		num = i + n;
 		i = n;
 		n = num;
-		if (nu % 2 == 0)
+		if (num % 2 == 0)
 		sum += num;
 	}
 	printf("%i\n", sum);
