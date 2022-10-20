@@ -20,7 +20,9 @@ while (a <= n)
 	{
 		rep = a * b;
 		if (b == 0)
+		{
 			_putchar('0' + rep);
+		}
 		else if (rep < 10)
 		{
 			_putchar(' ');
