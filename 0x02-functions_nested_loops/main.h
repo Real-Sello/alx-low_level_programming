@@ -1,7 +1,7 @@
 #ifndef MAIN_H_INCLUDED
 #define MAIN_H_INCLUDED
 
-void print_times_table(int n);
+int _putchar(char c);
 void print_alphabet(void);
 void print_alphabet_x10(void);
 int _islower(int c);
