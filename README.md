@@ -10,7 +10,7 @@ Welcome aboard fellow engineer, this is where you will find all the low level pr
 
 #### 1.Task 212 0x00. C - [Hello, World](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x00-hello_world/).
 
-##### Learning Objectives:
+##### _Learning Objectives:_
 
 - Why C programming is awesome
 - Who invented C
@@ -26,10 +26,9 @@ Welcome aboard fellow engineer, this is where you will find all the low level pr
 - How to find the right header to include in your source code when using a standard library function
 - How does the ```main``` function influence the return value of the program
 ---
-
 #### 2.Task 213 0x01. C - [Variables, if, else, while](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x01-variables_if_else_while)
 
-##### Learning Objectives:
+##### _Learning Objectives:_
 
 - What are the arithmetic operators and how to use them
 - What are the logical operators (sometimes called boolean operators) and how to use them
@@ -47,10 +46,9 @@ Welcome aboard fellow engineer, this is where you will find all the low level pr
 - What is the ```ASCII``` character set
 - What are the purpose of the ```gcc``` flags ```-m32``` and ```-m64```
 ---
-
 #### 3.Task 214 0x02. C - [Functions, nested loops](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x02-functions_nested_loops)
 
-##### Learning Objectives:
+##### _Learning Objectives:_
 
 - What are nested loops and how to use them
 - What is a function and how do you use functions
@@ -60,19 +58,17 @@ Welcome aboard fellow engineer, this is where you will find all the low level pr
 - What are the ```gcc``` flags ```-Wall -Werror -pedantic -Wextra -std=gnu89```
 - What are header files and how to to use them with ```#include```
 ---
-
 #### 4.Task 539 0x03. C - [Debugging](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x03-debugging)
 
-##### Learning Objectives:
+##### _Learning Objectives:_
 
 - What is debugging
 - What are some methods of debugging manually
 - How to read the error messages
 ---
-
 #### 5.Task 215 0x04. C - [More functions, more nested loops](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops)
 
-##### Learning Objectives:
+##### _Learning Objectives:_
 
 - What are nested loops and how to use them
 - What is a function and how do you use functions
@@ -82,10 +78,9 @@ Welcome aboard fellow engineer, this is where you will find all the low level pr
 - What are the ```gcc``` flags ```-Wall -Werror -pedantic -Wextra -std=gnu89```
 - What are header files and how to to use them with ```#include```
 ---
-
 #### 6.Task 216 0x05. C - [Pointers, arrays and strings](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
 
-##### Learning Objectives:
+##### _Learning Objectives:_
 
 - What are pointers and how to use them
 - What are arrays and how to use them
@@ -93,10 +88,9 @@ Welcome aboard fellow engineer, this is where you will find all the low level pr
 - How to use strings and how to manipulate them
 - Scope of variables
 ---
-
 #### 7.Task 217 0x06. C - [More pointers, arrays and strings](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)
 
-##### Learning Objectives:
+##### _Learning Objectives:_
 
 - What are pointers and how to use them
 - What are arrays and how to use them
@@ -104,46 +98,41 @@ Welcome aboard fellow engineer, this is where you will find all the low level pr
 - How to use strings and how to manipulate them
 - Scope of variables
 ---
-
 #### 8.Task 218 0x07. C - [Even more pointers, arrays and strings](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)
 
-##### Learning Objectives:
+##### _Learning Objectives:_
 
 - What are pointers to pointers and how to use them
 - What are multidimensional arrays and how to use them
 - What are the most common C standard library functions to manipulate strings
 ---
-
 #### 9.Task 219 0x08. C - [Recursion](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x08-recursion)
 
-##### Learning Objectives:
+##### _Learning Objectives:_
 
 - What is recursion
 - How to implement recursion
 - In what situations you should implement recursion
 - In what situations you shouldn’t implement recursion
 ---
-
 #### 10.Task 221 0x0A. C - [argc, argv](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x0A-argc_argv)
 
-##### Learning Objectives:
+##### _Learning Objectives:_
 
 - How to use arguments passed to your program
 - What are two prototypes of ```main``` that you know of, and in which case do you use one or the other
 - How to use ```__attribute__((unused))``` or ```(void)``` to compile functions with unused variables or parameters
 ---
-
 #### 11.Task 220 0x09. C - [Static libraries](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x09-static_libraries)
 
-##### Learning Objectives:
+##### _Learning Objectives:_
 
 - What is a static library, how does it work, how to create one, and how to use it
 - Basic usage of ```ar```, ```ranlib```, ```nm```
 ---
-
 #### 12.Task 222 0x0B. C - [malloc, free](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x0B-malloc_free)
 
-##### Learning Objectives:
+##### _Learning Objectives:_
 
 - What is the difference between automatic and dynamic allocation
 - What is ```malloc``` and ```free``` and how to use them
