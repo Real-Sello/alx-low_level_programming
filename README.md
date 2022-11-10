@@ -10,6 +10,7 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 
 ## Environment
 
+?style=for-the-badge&logo=appveyor	
 - **OS**: Ubuntu 20.04 LTS
 - **Compiler**: gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0
 - **Language**: C
