@@ -10,6 +10,9 @@
  * @size: unsigned int type
  *
  * Return: return pointer to array
+ *
+ * If nmemb or size is 0, then _calloc returns NULL
+ * If malloc fails, then _calloc returns NULL
  */
 
 void *_calloc(unsigned int nmemb, unsigned int size)
