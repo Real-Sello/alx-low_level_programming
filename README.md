@@ -16,7 +16,7 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 
 ## Table of contents
 
-- [Hello, World.](Hello, World.)
+- [Hello, World.](#Hello, World.)
 - []()
 - []()
 - []()
