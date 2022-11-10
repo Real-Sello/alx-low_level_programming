@@ -1,13 +1,17 @@
 # Low-Level Programming & Algorithm - Hatching Out.
 
-## This is a list of the low-level programming tasks.
-### Description
+## Description
 
-Welcome aboard, this is where you will find all the low level programming tasks I was able to complete with the [ALX Africa](https://www.alxafrica.com/) Software Engineering Programme guidelines and course resources.
+Welcome aboard, this repo has all the low level programming tasks I was able to complete with the [ALX Africa](https://www.alxafrica.com/) Software Engineering Programme guidelines and course resources. The focus of these tasks is learning the C Programming Language.
 
 <a href="https://www.alxafrica.com/">
 <img alt="ALX Africa" src="https://cdn1.vc4a.com/media/2021/05/alx-banner.jpg"/>
 </a>
+## Environment
+
+- **OS**: Ubuntu 20.04 LTS
+- **Compiler**: gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0
+- **Language**: C
 
 ## Tasks
 
