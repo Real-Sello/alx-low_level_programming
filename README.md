@@ -6,7 +6,7 @@
 Welcome aboard, this is where you will find all the low level programming tasks I was able to complete with the [ALX Africa](https://www.alxafrica.com/) Software Engineering Programme guidelines and course resources.
 
 <a href="https://www.alxafrica.com/">
-<img alt="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"/>
+<img alt="https://www.alxafrica.com/"src="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png/">
 </a>
 
 ## Tasks
