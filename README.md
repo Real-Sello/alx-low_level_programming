@@ -1,5 +1,7 @@
 # Low-Level Programming & Algorithm - Hatching Out.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width=150 height=150/>
+
 ## Description
 
 Welcome aboard, this repo has all the low level programming tasks I was able to complete with the [ALX Africa](https://www.alxafrica.com/) Software Engineering Programme guidelines and course resources. The focus of these tasks is learning the C Programming Language.
