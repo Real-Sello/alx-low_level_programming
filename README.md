@@ -19,7 +19,7 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 <details open="open">
   <summary>Table of contents</summary>
   <ol>
-- [1.Task 212 0x00. C - Hello, World.](https://github.com/Real-Sello/alx-low_level_programming#1task-212-0x00-c---hello-world)
+-<li> [1.Task 212 0x00. C - Hello, World.](https://github.com/Real-Sello/alx-low_level_programming#1task-212-0x00-c---hello-world)<li>
 - [2.Task 213 0x01. C - Variables, if, else, while.](https://github.com/Real-Sello/alx-low_level_programming#2task-213-0x01-c---variables-if-else-while)
 - [3.Task 214 0x02. C - Functions, nested loops.](https://github.com/Real-Sello/alx-low_level_programming#3task-214-0x02-c---functions-nested-loops)
 - [4.Task 539 0x03. C - Debugging.
@@ -34,6 +34,7 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 - [12.Task 222 0x0B. C - malloc, free.](https://github.com/Real-Sello/alx-low_level_programming#12task-222-0x0b-c---malloc-free)
 - [13.Task 223 0x0C. C - More malloc, free.](https://github.com/Real-Sello/alx-low_level_programming#13task-223-0x0c-c---more-malloc-free)
   </ol>
+
 
 ## Tasks
 
