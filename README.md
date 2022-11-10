@@ -34,13 +34,12 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 - [12.Task 222 0x0B. C - malloc, free.](https://github.com/Real-Sello/alx-low_level_programming#12task-222-0x0b-c---malloc-free)
 - [13.Task 223 0x0C. C - More malloc, free.](https://github.com/Real-Sello/alx-low_level_programming#13task-223-0x0c-c---more-malloc-free)
   </ol>
-</details>
 
 ## Tasks
 
 #### 1.Task 212 0x00. C - [Hello, World](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x00-hello_world/).
 
-##### 💡_Learning Objectives:_
+##### 💡 _Learning Objectives:_
 
 - Why C programming is awesome
 - Who invented C
@@ -58,7 +57,7 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 ---
 #### 2.Task 213 0x01. C - [Variables, if, else, while](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x01-variables_if_else_while)
 
-##### 💡_Learning Objectives:_
+##### 💡 _Learning Objectives:_
 
 - What are the arithmetic operators and how to use them
 - What are the logical operators (sometimes called boolean operators) and how to use them
@@ -78,7 +77,7 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 ---
 #### 3.Task 214 0x02. C - [Functions, nested loops](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x02-functions_nested_loops)
 
-##### 💡_Learning Objectives:_
+##### 💡 _Learning Objectives:_
 
 - What are nested loops and how to use them
 - What is a function and how do you use functions
@@ -90,7 +89,7 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 ---
 #### 4.Task 539 0x03. C - [Debugging](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x03-debugging)
 
-##### 💡_Learning Objectives:_
+##### 💡 _Learning Objectives:_
 
 - What is debugging
 - What are some methods of debugging manually
@@ -98,7 +97,7 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 ---
 #### 5.Task 215 0x04. C - [More functions, more nested loops](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops)
 
-##### 💡_Learning Objectives:_
+##### 💡 _Learning Objectives:_
 
 - What are nested loops and how to use them
 - What is a function and how do you use functions
@@ -110,7 +109,7 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 ---
 #### 6.Task 216 0x05. C - [Pointers, arrays and strings](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
 
-##### 💡_Learning Objectives:_
+##### 💡 _Learning Objectives:_
 
 - What are pointers and how to use them
 - What are arrays and how to use them
@@ -120,7 +119,7 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 ---
 #### 7.Task 217 0x06. C - [More pointers, arrays and strings](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)
 
-##### 💡_Learning Objectives:_
+##### 💡 _Learning Objectives:_
 
 - What are pointers and how to use them
 - What are arrays and how to use them
@@ -130,7 +129,7 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 ---
 #### 8.Task 218 0x07. C - [Even more pointers, arrays and strings](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)
 
-##### 💡_Learning Objectives:_
+##### 💡 _Learning Objectives:_
 
 - What are pointers to pointers and how to use them
 - What are multidimensional arrays and how to use them
@@ -138,7 +137,7 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 ---
 #### 9.Task 219 0x08. C - [Recursion](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x08-recursion)
 
-##### 💡_Learning Objectives:_
+##### 💡 _Learning Objectives:_
 
 - What is recursion
 - How to implement recursion
@@ -147,7 +146,7 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 ---
 #### 10.Task 221 0x0A. C - [argc, argv](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x0A-argc_argv)
 
-##### 💡_Learning Objectives:_
+##### 💡 _Learning Objectives:_
 
 - How to use arguments passed to your program
 - What are two prototypes of ```main``` that you know of, and in which case do you use one or the other
@@ -155,14 +154,14 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 ---
 #### 11.Task 220 0x09. C - [Static libraries](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x09-static_libraries)
 
-##### 💡_Learning Objectives:_
+##### 💡 _Learning Objectives:_
 
 - What is a static library, how does it work, how to create one, and how to use it
 - Basic usage of ```ar```, ```ranlib```, ```nm```
 ---
 #### 12.Task 222 0x0B. C - [malloc, free](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x0B-malloc_free)
 
-##### 💡_Learning Objectives:_
+##### 💡 _Learning Objectives:_
 
 - What is the difference between automatic and dynamic allocation
 - What is ```malloc``` and ```free``` and how to use them
@@ -171,7 +170,7 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 ---
 #### 13.Task 223 0x0C. C - [More malloc, free](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x0C-more_malloc_free)
 
-##### 💡_Learning Objectives:_
+##### 💡 _Learning Objectives:_
 
 - How to use the ```exit``` function
 - What are the functions ```calloc``` and ```realloc``` from the standard library and how to use them
