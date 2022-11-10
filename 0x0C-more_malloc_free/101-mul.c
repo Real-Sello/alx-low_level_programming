@@ -30,7 +30,7 @@ char *_memset(char *s, char b, unsigned int n)
  * _calloc - allocates memory for an array
  *
  * @nmemb: array size
- * 
+ *
  * @size: size of each element
  *
  * Return: pointer memory
@@ -62,6 +62,15 @@ void *_calloc(unsigned int nmemb, unsigned int size)
 */
 
 void multiply(char *s1, char *s2)
+	int _length(char *str)
+{
+	int i = 0;
+
+	while (str[i] != '\0')
+		i++;
+	return (i);
+}
+
 {
 	int i, l1, l2, total_l, f_digit, s_digit, res = 0, tmp;
 	char *ptr;
