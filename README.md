@@ -16,7 +16,7 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 
 ## Table of contents
 
-- [Hello, World.](#Hello, World.)
+- [Hello, World.](https://github.com/Real-Sello/alx-low_level_programming#1task-212-0x00-c---hello-world)
 - []()
 - []()
 - []()
