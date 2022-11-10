@@ -142,3 +142,9 @@ Welcome aboard, this is where you will find all the low level programming tasks 
 - Why and when use ```malloc```
 - How to use ```valgrind``` to check for memory leak
 ---
+#### 13.Task 223 0x0C. C - [More malloc, free](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x0C-more_malloc_free)
+
+##### _Learning Objectives:_
+
+- How to use the ```exit``` function
+- What are the functions ```calloc``` and ```realloc``` from the standard library and how to use them
