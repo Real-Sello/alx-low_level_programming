@@ -15,9 +15,7 @@ Welcome aboard fellow engineer, this is where you will find all the low level pr
 -Why C programming is awesome
 -Who invented C
 -Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
--What happens when you type ```bash
-gcc main.c
-```
+-What happens when you type ```bash gcc main.c```
 -What is an entry point
 -What is main
 -How to print text using printf, puts and putchar
