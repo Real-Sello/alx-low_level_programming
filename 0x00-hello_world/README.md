@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width=150 height=150/> 
+
 # 0-Preprocessor
 
 A script that runs a C file through the preprocessor and save the result into another file.

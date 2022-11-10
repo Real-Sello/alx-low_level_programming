@@ -1,3 +1,4 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width=150 height=150/> 
 # 0x0B-malloc_free
 
 # Malloc, free. In  this task we learn about automatic and dynamic memory allocation in C language
