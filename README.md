@@ -1,10 +1,13 @@
-# ALX Low Level Programming Task Repository
+# Low-Level Programming & Algorithm - Hatching Out.
 
-## This repository contains all my Low Level Programming Tasks from ALX.
-
+## This is a list of the low-level programming tasks.
 ### Description
 
-Welcome aboard fellow engineer, this is where you will find all the low level programming tasks I was able to complete wit the ALX guidelines and course resources.
+Welcome aboard, this is where you will find all the low level programming tasks I was able to complete with the [ALX Africa](https://www.alxafrica.com/) Software Engineering Programme guidelines and course resources.
+
+<a href="https://www.alxafrica.com/">
+<img alt="https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png"/>
+</a>
 
 ## Tasks
 
