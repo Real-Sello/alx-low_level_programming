@@ -14,17 +14,17 @@ Welcome aboard fellow engineer, this is where you will find all the low level pr
 
 - Why C programming is awesome
 - Who invented C
-- Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
-- What happens when you type gcc main.c
+- Who are [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie), [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan) and [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds)
+- What happens when you type ```gcc main.c```
 - What is an entry point
-- What is main
-- How to print text using printf, puts and putchar
-- How to get the size of a specific type using the unary operator sizeof
-- How to compile using gcc
-- What is the default program name when compiling with gcc
-- What is the official C coding style and how to check your code with betty-style
+- What is ```main```
+- How to print text using ```printf```, ```puts``` and ```putchar```
+- How to get the size of a specific type using the unary operator ```sizeof```
+- How to compile using ```gcc```
+- What is the default program name when compiling with ```gcc```
+- What is the official C coding style and how to check your code with ```betty-style```
 - How to find the right header to include in your source code when using a standard library function
-- How does the main function influence the return value of the program
+- How does the ```main``` function influence the return value of the program
 
 #### 2.Task 213 0x01. C - [Variables, if, else, while](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x01-variables_if_else_while)
 
@@ -35,16 +35,16 @@ Welcome aboard fellow engineer, this is where you will find all the low level pr
 - What the the relational operators and how to use them
 - What values are considered TRUE and FALSE in C
 - What are the boolean operators and how to use them
-- How to use the if, if ... else statements
+- How to use the ```if```, ```if ... else``` statements
 - How to use comments
-- How to declare variables of types char, int, unsigned int
+- How to declare variables of types ```char```, ```int```, ```unsigned int```
 - How to assign values to variables
-- How to print the values of variables of type char, int, unsigned int with printf
-- How to use the while loop
-- How to use variables with the while loop
-- How to print variables using printf
-- What is the ASCII character set
-- What are the purpose of the gcc flags -m32 and -m64
+- How to print the values of variables of type ```char```, ```int```, ```unsigned int``` with ```printf```
+- How to use the ```while``` loop
+- How to use variables with the ```while``` loop
+- How to print variables using ```printf```
+- What is the ```ASCII``` character set
+- What are the purpose of the ```gcc``` flags ```-m32``` and ```-m64```
 
 #### 3.Task 214 0x02. C - [Functions, nested loops](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x02-functions_nested_loops)
 
@@ -55,8 +55,8 @@ Welcome aboard fellow engineer, this is where you will find all the low level pr
 - What is the difference between a declaration and a definition of a function
 - What is a prototype
 - Scope of variables
-- What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89
-- What are header files and how to to use them with #include
+- What are the ```gcc``` flags ```-Wall -Werror -pedantic -Wextra -std=gnu89```
+- What are header files and how to to use them with ```#include```
 
 #### 4.Task 539 0x03. C - [Debugging](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x03-debugging)
 
@@ -75,8 +75,8 @@ Welcome aboard fellow engineer, this is where you will find all the low level pr
 - What is the difference between a declaration and a definition of a function
 - What is a prototype
 - Scope of variables
-- What are the gcc flags -Wall -Werror -pedantic -Wextra -std=gnu89
-- What are header files and how to to use them with #include
+- What are the ```gcc``` flags ```-Wall -Werror -pedantic -Wextra -std=gnu89```
+- What are header files and how to to use them with ```#include```
 
 #### 6.Task 216 0x05. C - [Pointers, arrays and strings](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
 
@@ -120,21 +120,21 @@ Welcome aboard fellow engineer, this is where you will find all the low level pr
 ##### Learning Objectives
 
 - How to use arguments passed to your program
-- What are two prototypes of main that you know of, and in which case do you use one or the other
-- How to use __attribute__((unused)) or (void) to compile functions with unused variables or parameters
+- What are two prototypes of ```main``` that you know of, and in which case do you use one or the other
+- How to use ```__attribute__((unused))``` or ```(void)``` to compile functions with unused variables or parameters
 
 #### 11.Task 220 0x09. C - [Static libraries](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x09-static_libraries)
 
 ##### Learning Objectives
 
 - What is a static library, how does it work, how to create one, and how to use it
-- Basic usage of ar, ranlib, nm
+- Basic usage of ```ar```, ```ranlib```, ```nm```
 
 #### 12.Task 222 0x0B. C - [malloc, free](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x0B-malloc_free)
 
 ##### Learning Objectives
 
 - What is the difference between automatic and dynamic allocation
-- What is malloc and free and how to use them
-- Why and when use malloc
-- How to use ```bash valgrind``` to check for memory leak
+- What is ```malloc``` and ```free``` and how to use them
+- Why and when use ```malloc```
+- How to use ```valgrind``` to check for memory leak
