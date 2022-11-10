@@ -16,19 +16,21 @@ Welcome aboard, this repo has all the low level programming tasks I was able to 
 
 ## Table of contents
 
-- [Hello, World.](https://github.com/Real-Sello/alx-low_level_programming#1task-212-0x00-c---hello-world)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [1.Task 212 0x00. C - Hello, World.](https://github.com/Real-Sello/alx-low_level_programming#1task-212-0x00-c---hello-world)
+- [2.Task 213 0x01. C - Variables, if, else, while.](https://github.com/Real-Sello/alx-low_level_programming#2task-213-0x01-c---variables-if-else-while)
+- [3.Task 214 0x02. C - Functions, nested loops.](https://github.com/Real-Sello/alx-low_level_programming#3task-214-0x02-c---functions-nested-loops)
+- [4.Task 539 0x03. C - Debugging.
+](https://github.com/Real-Sello/alx-low_level_programming#4task-539-0x03-c---debugging)
+- [5.Task 215 0x04. C - More functions, more nested loops.](https://github.com/Real-Sello/alx-low_level_programming#5task-215-0x04-c---more-functions-more-nested-loops)
+- [6.Task 216 0x05. C - Pointers, arrays and strings.](https://github.com/Real-Sello/alx-low_level_programming#6task-216-0x05-c---pointers-arrays-and-strings)
+- [7.Task 217 0x06. C - More pointers, arrays and strings.](https://github.com/Real-Sello/alx-low_level_programming#7task-217-0x06-c---more-pointers-arrays-and-strings)
+- [8.Task 218 0x07. C - Even more pointers, arrays and strings.](https://github.com/Real-Sello/alx-low_level_programming#8task-218-0x07-c---even-more-pointers-arrays-and-strings)
+- [9.Task 219 0x08. C - Recursion.](https://github.com/Real-Sello/alx-low_level_programming#9task-219-0x08-c---recursion)
+- [10.Task 221 0x0A. C - argc, argv.](https://github.com/Real-Sello/alx-low_level_programming#10task-221-0x0a-c---argc-argv)
+- [11.Task 220 0x09. C - Static libraries.](https://github.com/Real-Sello/alx-low_level_programming#11task-220-0x09-c---static-libraries)
+- [12.Task 222 0x0B. C - malloc, free.](https://github.com/Real-Sello/alx-low_level_programming#12task-222-0x0b-c---malloc-free)
+- [13.Task 223 0x0C. C - More malloc, free.](https://github.com/Real-Sello/alx-low_level_programming#13task-223-0x0c-c---more-malloc-free)
+
 ## Tasks
 
 #### 1.Task 212 0x00. C - [Hello, World](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x00-hello_world/).
