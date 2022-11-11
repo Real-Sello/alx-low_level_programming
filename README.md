@@ -18,19 +18,19 @@ Welcome aboard, this repo has all the low level programming projects I was able 
 
 ## 📝 Table of contents
 
-- [1.Project 212 0x00. C - Hello, World.](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x00-hello_world)
-- [2.Project 213 0x01. C - Variables, if, else, while.](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x01-variables_if_else_while)
-- [3.Project 214 0x02. C - Functions, nested loops.](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x02-functions_nested_loops)
-- [4.Project 539 0x03. C - Debugging.](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x03-debugging)
-- [5.Project 215 0x04. C - More functions, more nested loops.](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x04-more_functions_nested_loops)
-- [6.Project 216 0x05. C - Pointers, arrays and strings.](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x05-pointers_arrays_strings)
-- [7.Project 217 0x06. C - More pointers, arrays and strings.](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x06-pointers_arrays_strings)
-- [8.Project 218 0x07. C - Even more pointers, arrays and strings.](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)
-- [9.Project 219 0x08. C - Recursion.](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x09-static_libraries)
-- [10.Project 221 0x0A. C - argc, argv.](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x0A-argc_argv)
-- [11.Project 220 0x09. C - Static libraries.](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x09-static_libraries)
-- [12.Project 222 0x0B. C - malloc, free.](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x0B-malloc_free)
-- [13.Project 223 0x0C. C - More malloc, free.](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x0C-more_malloc_free)
+- [1.Project 212 0x00. C - Hello, World.](https://github.com/Real-Sello/alx-low_level_programming#1project-212-0x00-c---hello-world)
+- [2.Project 213 0x01. C - Variables, if, else, while.](https://github.com/Real-Sello/alx-low_level_programming#2project-213-0x01-c---variables-if-else-while)
+- [3.Project 214 0x02. C - Functions, nested loops.](https://github.com/Real-Sello/alx-low_level_programming#3project-214-0x02-c---functions-nested-loops)
+- [4.Project 539 0x03. C - Debugging.](https://github.com/Real-Sello/alx-low_level_programming#4project-539-0x03-c---debugging)
+- [5.Project 215 0x04. C - More functions, more nested loops.](https://github.com/Real-Sello/alx-low_level_programming#5project-215-0x04-c---more-functions-more-nested-loops)
+- [6.Project 216 0x05. C - Pointers, arrays and strings.](https://github.com/Real-Sello/alx-low_level_programming#6project-216-0x05-c---pointers-arrays-and-strings)
+- [7.Project 217 0x06. C - More pointers, arrays and strings.](https://github.com/Real-Sello/alx-low_level_programming#7project-217-0x06-c---more-pointers-arrays-and-strings)
+- [8.Project 218 0x07. C - Even more pointers, arrays and strings.](https://github.com/Real-Sello/alx-low_level_programming#8project-218-0x07-c---even-more-pointers-arrays-and-strings)
+- [9.Project 219 0x08. C - Recursion.](https://github.com/Real-Sello/alx-low_level_programming#9project-219-0x08-c---recursion)
+- [10.Project 221 0x0A. C - argc, argv.](https://github.com/Real-Sello/alx-low_level_programming#10project-221-0x0a-c---argc-argv)
+- [11.Project 220 0x09. C - Static libraries.](https://github.com/Real-Sello/alx-low_level_programming#11project-220-0x09-c---static-libraries)
+- [12.Project 222 0x0B. C - malloc, free.](https://github.com/Real-Sello/alx-low_level_programming#12project-222-0x0b-c---malloc-free)
+- [13.Project 223 0x0C. C - More malloc, free.](https://github.com/Real-Sello/alx-low_level_programming#13project-223-0x0c-c---more-malloc-free)
 
 ## :pencil: Projects
 
