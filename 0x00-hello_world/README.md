@@ -2,7 +2,7 @@
 
 # Project 212 0x00. C - Hello, World
 
-## Description
+## :pushpin: Description
 
 - This is a repository for projects built for us to learn low-level programming in C language.
 
@@ -41,7 +41,7 @@
 - How to find the right header to include in your source code when using a standard library function
 - How does the ```main``` function influence the return value of the program
 
-## Project Tasks
+## ⭐️ Project Tasks
 
 - ### [0. Preprocessor](https://github.com/Real-Sello/alx-low_level_programming/blob/master/0x00-hello_world/0-preprocessor)
 	- We were tasked to write a script that runs a C file through the preprocessor and save the result into another file.
