@@ -102,3 +102,9 @@ ___
 		- Our program should return 1
 		- Our program should compile without any warnings when using the ```-Wall``` ```gcc``` option
 ___
+
+## :bust_in_silhouette: Author 
+
+All code and documentation is owned and maintained by [Sello Prince Moneatse](https://github.com/Real-Sello)
+
+
