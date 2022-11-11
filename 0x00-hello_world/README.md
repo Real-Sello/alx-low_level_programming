@@ -19,7 +19,7 @@
 	- Our code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
 
 - **_Shell Scripts_**
-	- Allowed editors: ```[vi](https://en.wikipedia.org/wiki/Vi)```, ```[vim](https://en.wikipedia.org/wiki/Vim_(text_editor))```, ```[emacs](https://en.wikipedia.org/wiki/Emacs)```
+	- Allowed editors: [vi](https://en.wikipedia.org/wiki/Vi), [vim](https://en.wikipedia.org/wiki/Vim_(text_editor)), [emacs](https://en.wikipedia.org/wiki/Emacs)
 	- All our scripts will be tested on Ubuntu 20.04 LTS
 	- All our scripts should be exactly two lines long (```$ wc -l file``` should print 2)
 	- All our files should end with a new line
@@ -94,7 +94,7 @@ ___
 		- The output file should be named the same as the C file, but with the extension ```.s``` instead of ```.c```.
 			- Example: if the C file is ```main.c```, the output file should be ```main.s```
 ___			
-- ### 8. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity (_ADVANCED TASK_)
+- ### 8. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity **|** _ADVANCED TASK_
 
 	- We were tasked to write a C program that prints exactly ```and that piece of art is useful" - Dora Korpar, 2015-10-19```, followed by a new line, to the standard error.
 
