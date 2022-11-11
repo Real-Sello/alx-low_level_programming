@@ -19,7 +19,7 @@
 	- Our code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
 
 - **_Shell Scripts_**
-	- Allowed editors: [vi](https://en.wikipedia.org/wiki/Vi), [vim](https://en.wikipedia.org/wiki/Vim_(text_editor)), [emacs](https://en.wikipedia.org/wiki/Emacs)
+	- Allowed editors: [Vi](https://en.wikipedia.org/wiki/Vi), [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)), [Emacs](https://en.wikipedia.org/wiki/Emacs)
 	- All our scripts will be tested on Ubuntu 20.04 LTS
 	- All our scripts should be exactly two lines long (```$ wc -l file``` should print 2)
 	- All our files should end with a new line
@@ -43,24 +43,24 @@
 
 ## Project Tasks
 
-- ### 0. Preprocessor
+- ### [0. Preprocessor](https://github.com/Real-Sello/alx-low_level_programming/blob/master/0x00-hello_world/0-preprocessor)
 	- We were tasked to write a script that runs a C file through the preprocessor and save the result into another file.
 		- The C file name will be saved in the variable ```$CFILE```
 		- The output should be saved in the file ```c```
 ___		
-- ### 1. Compiler
+- ### [1. Compiler](https://github.com/Real-Sello/alx-low_level_programming/blob/master/0x00-hello_world/1-compiler)
 	- We were tasked to write a script that compiles a C file but does not link.
 		-The C file name will be saved in the variable ```$CFILE```
 		- The output file should be named the same as the C file, but with the extension ```.o``` instead of ```.c.```
 			- Example: if the C file is ```main.c```, the output file should be ```main.o```
 ___
-- ### 2. Assembler
+- ### [2. Assembler](https://github.com/Real-Sello/alx-low_level_programming/blob/master/0x00-hello_world/2-assembler)
 	- We were tasked to write a script that generates the assembly code of a C code and save it in an output file.
 		- The C file name will be saved in the variable ```$CFILE```
 		- The output file should be named the same as the C file, but with the extension ```.s``` instead of ```.c.```
 			- Example: if the C file is ```main.c```, the output file should be ```main.s```
 ___
-- ### 3. Name
+- ### [3. Name](https://github.com/Real-Sello/alx-low_level_programming/blob/master/0x00-hello_world/3-name)
 	- We were tasked to write a script that compiles a C file and creates an executable named ```cisfun```.
 		- The C file name will be saved in the variable ```$CFILE```
 ___
@@ -94,10 +94,11 @@ ___
 		- The output file should be named the same as the C file, but with the extension ```.s``` instead of ```.c```.
 			- Example: if the C file is ```main.c```, the output file should be ```main.s```
 ___			
-- ### 8. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity **|** _ADVANCED TASK_
+- ### 8. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity **|** ```ADVANCED TASK```
 
 	- We were tasked to write a C program that prints exactly ```and that piece of art is useful" - Dora Korpar, 2015-10-19```, followed by a new line, to the standard error.
 
 		- We are not allowed to use any functions listed in the NAME section of the man (3) ```printf``` or man (3) ```puts```
 		- Our program should return 1
 		- Our program should compile without any warnings when using the ```-Wall``` ```gcc``` option
+___
