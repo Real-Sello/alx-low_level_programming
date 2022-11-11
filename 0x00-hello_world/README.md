@@ -9,7 +9,7 @@
 ## Rules and Requirements
 
 - **_C_**
-	- Allowed editors: ```vi```, ```vim```, ```emacs```
+	- Allowed editors: [Vi](https://en.wikipedia.org/wiki/Vi), [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)), [Emacs](https://en.wikipedia.org/wiki/Emacs)
 	- All our files will be compiled on Ubuntu 20.04 LTS using ```gcc```, using the options ```-Wall -		Werror -Wextra -pedantic -std=gnu89```
 	- All our files should end with a new line
 	- A ```README.md``` file at the root of the repo, containing a description of the repository
@@ -64,14 +64,14 @@ ___
 	- We were tasked to write a script that compiles a C file and creates an executable named ```cisfun```.
 		- The C file name will be saved in the variable ```$CFILE```
 ___
-- ### 4. Hello, puts
+- ### [4. Hello, puts](https://github.com/Real-Sello/alx-low_level_programming/blob/master/0x00-hello_world/4-puts.c)
 	- We were tasked to write a C program that prints exactly ```"Programming is like building a multilingual puzzle```, followed by a new line.
 
 		- Use the function ```puts```
 		- We are not allowed to use ```printf```
 		- Our program should end with the value ```0```
 ___		
-- ### 5. Hello, printf
+- ### [5. Hello, printf](https://github.com/Real-Sello/alx-low_level_programming/blob/master/0x00-hello_world/5-printf.c)
 	- We were tasked to write a C program that prints exactly ```with proper grammar, but the outcome is a piece of art,```, followed by a new line.
 
 		- Use the function printf
@@ -79,7 +79,7 @@ ___
 		- Our program should return ```0```
 		- Our program should compile without warning when using the ```-Wall``` ```gcc``` option
 ___
-- ### 6. Size is not grandeur, and territory does not make a nation
+- ### [6. Size is not grandeur, and territory does not make a nation](https://github.com/Real-Sello/alx-low_level_programming/blob/master/0x00-hello_world/6-size.c)
 	- We were tasked to write a C program that prints the size of various types on the computer it is compiled and run on.
 
 		- We should produce the exact same output as in the example
@@ -87,14 +87,14 @@ ___
 		- Our program should return ```0```
 		- We had to install the package ```libc6-dev-i386``` on our Linux to test the ```-m32``` ```gcc``` option
 ___		
-- ### 7. Intel
+- ### [7. Intel](https://github.com/Real-Sello/alx-low_level_programming/blob/master/0x00-hello_world/100-intel)
 	- We were tasked to write a script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
 
 		- The C file name will be saved in the variable ```$CFILE```.
 		- The output file should be named the same as the C file, but with the extension ```.s``` instead of ```.c```.
 			- Example: if the C file is ```main.c```, the output file should be ```main.s```
 ___			
-- ### 8. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity **|** ```ADVANCED TASK```
+- ### [8. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity](https://github.com/Real-Sello/alx-low_level_programming/blob/master/0x00-hello_world/101-quote.c) **|** ```ADVANCED TASK```
 
 	- We were tasked to write a C program that prints exactly ```and that piece of art is useful" - Dora Korpar, 2015-10-19```, followed by a new line, to the standard error.
 
