@@ -1,12 +1,12 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width=150 height=150/> 
 
-# Project 212 0x00. C - Hello, World
+#  Project 212 0x00. C - Hello, World
 
 ## :pushpin: Description
 
 - This is a repository for projects built for us to learn low-level programming in C language.
 
-## Rules and Requirements
+## :triangular_flag_on_post: Rules and Requirements
 
 - **_C_**
 	- Allowed editors: [Vi](https://en.wikipedia.org/wiki/Vi), [Vim](https://en.wikipedia.org/wiki/Vim_(text_editor)), [Emacs](https://en.wikipedia.org/wiki/Emacs)
@@ -41,7 +41,7 @@
 - How to find the right header to include in your source code when using a standard library function
 - How does the ```main``` function influence the return value of the program
 
-## ⭐️ Project Tasks
+## :pencil: Project Tasks
 
 - ### [0. Preprocessor](https://github.com/Real-Sello/alx-low_level_programming/blob/master/0x00-hello_world/0-preprocessor)
 	- We were tasked to write a script that runs a C file through the preprocessor and save the result into another file.
