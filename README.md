@@ -12,8 +12,8 @@ Welcome aboard, this repo has all the low level programming projects I was able 
 
 ## :computer: Environment
 
-- **OS**: Ubuntu 20.04 LTS
-- **Compiler**: gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0
+- **OS**: Ubuntu 22.04.1 LTS
+- **Compiler**: gcc (Ubuntu 11.3.0-1ubuntu1~22.04) 11.3.0
 - **Language**: C
 
 ## 📝 Table of contents
