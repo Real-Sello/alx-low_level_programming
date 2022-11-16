@@ -31,6 +31,8 @@ Welcome aboard, this repo has all the low level programming projects I was able 
 - [11.Project 220 0x09. C - Static libraries.](https://github.com/Real-Sello/alx-low_level_programming#11project-220-0x09-c---static-libraries)
 - [12.Project 222 0x0B. C - malloc, free.](https://github.com/Real-Sello/alx-low_level_programming#12project-222-0x0b-c---malloc-free)
 - [13.Project 223 0x0C. C - More malloc, free.](https://github.com/Real-Sello/alx-low_level_programming#13project-223-0x0c-c---more-malloc-free)
+- [14.Project 224 0x0D. C - Preprocessor.]()
+- [15.Project 225 0x0E. C - Structures, typedef.]()
 
 ## :pencil: Projects
 
@@ -172,6 +174,22 @@ Welcome aboard, this repo has all the low level programming projects I was able 
 - How to use the ```exit``` function
 - What are the functions ```calloc``` and ```realloc``` from the standard library and how to use them
 ___
+#### 14.Project 224 0x0D. C - [Preprocessor]()
+
+##### 💡 _Learning Objectives:_
+
+- What are macros and how to use them
+- What are the most common predefined macros
+- How to include guard your header files
+___
+#### 15.Project 225 0x0E. C - [Structures, typedef]()
+
+##### 💡 _Learning Objectives:_
+
+- What are structures, when, why and how to use them
+- How to use `typedef`
+___
+
 ## :bust_in_silhouette: Author 
 
 All code and documentation is owned and maintained by [Sello Prince Moneatse](https://github.com/Real-Sello)
