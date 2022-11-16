@@ -31,8 +31,8 @@ Welcome aboard, this repo has all the low level programming projects I was able 
 - [11.Project 220 0x09. C - Static libraries.](https://github.com/Real-Sello/alx-low_level_programming#11project-220-0x09-c---static-libraries)
 - [12.Project 222 0x0B. C - malloc, free.](https://github.com/Real-Sello/alx-low_level_programming#12project-222-0x0b-c---malloc-free)
 - [13.Project 223 0x0C. C - More malloc, free.](https://github.com/Real-Sello/alx-low_level_programming#13project-223-0x0c-c---more-malloc-free)
-- [14.Project 224 0x0D. C - Preprocessor.]()
-- [15.Project 225 0x0E. C - Structures, typedef.]()
+- [14.Project 224 0x0D. C - Preprocessor.](https://github.com/Real-Sello/alx-low_level_programming#14project-224-0x0d-c---preprocessor)
+- [15.Project 225 0x0E. C - Structures, typedef.](https://github.com/Real-Sello/alx-low_level_programming#15project-225-0x0e-c---structures-typedef)
 
 ## :pencil: Projects
 
@@ -174,7 +174,7 @@ Welcome aboard, this repo has all the low level programming projects I was able 
 - How to use the ```exit``` function
 - What are the functions ```calloc``` and ```realloc``` from the standard library and how to use them
 ___
-#### 14.Project 224 0x0D. C - [Preprocessor]()
+#### 14.Project 224 0x0D. C - [Preprocessor](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x0D-preprocessor)
 
 ##### 💡 _Learning Objectives:_
 
@@ -182,7 +182,7 @@ ___
 - What are the most common predefined macros
 - How to include guard your header files
 ___
-#### 15.Project 225 0x0E. C - [Structures, typedef]()
+#### 15.Project 225 0x0E. C - [Structures, typedef](https://github.com/Real-Sello/alx-low_level_programming/tree/master/0x0E-structures_typedef)
 
 ##### 💡 _Learning Objectives:_
 
