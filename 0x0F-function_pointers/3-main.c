@@ -3,20 +3,20 @@
 #include <stdlib.h>
 
 /**
- * main - performs simple arithmetic operations
+ * main - prints results from simple
+ * arythmetic operations
  *
- * @argc: number of arguments
+ * @argc: input arguments
  *
- * @argv: array of arguments
+ * @argv: double pointer to arguments
  *
- * Return: always 0.
+ * Return: always 0
  */
-
 int main(int argc, char *argv[])
 {
-	int i, j, output;
-	int (*func)(int, int);
-	char c;
+	int one, two, ans;
+	int (*res)(int, int);
+	char *get_op;
 
 	if (argc != 4)
 	{
@@ -24,28 +24,25 @@ int main(int argc, char *argv[])
 		exit(98);
 	}
 
-	i = atoi(argv[1]);
-	j = atoi(argv[3]);
+	one = atoi(argv[1]);
+	two = atoi(argv[3]);
+	get_op = argv[2];
 
-	func = get_op_func(argv[2]);
-
-	if (!func)
+	if (get_op_func(argv[2]) == NULL || argv[2][1] != '\0')
 	{
 		printf("Error\n");
 		exit(99);
 	}
 
-	c = *argv[2];
-
-	if ((c == '/' || c == '%') && j == 0)
+	if ((*get_op == '/' || *get_op == '%') && (*argv[3] == '0'))
 	{
 		printf("Error\n");
 		exit(100);
 	}
 
-	output = func(i, j);
+	res = get_op_func(get_op);
+	ans = res(one, two);
 
-	printf("%d\n", output);
-
+	printf("%d\n", ans);
 	return (0);
 }
