@@ -192,5 +192,8 @@ ___
 
 ## :bust_in_silhouette: Author 
 
-All code and documentation is owned and maintained by [Sello Prince Moneatse](https://github.com/Real-Sello)
+[Sello Prince Moneatse](https://github.com/Real-Sello) | ALX | Cohort 10
+___
+# Copyright
 
+Sello Prince Moneatse &copy; 2022 | All Rights Reserved
