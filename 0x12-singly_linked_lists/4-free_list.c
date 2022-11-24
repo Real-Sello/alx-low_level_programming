@@ -7,16 +7,39 @@
  *
  * @head: struct
  *
- * Return: free
+ * Return: Void
  */
 
 void free_list(list_t *head)
 {
+	list_t *node;
+	list_t *end;
+
 	if (head == NULL)
 		return;
 
-	if (head->next != NULL)
-		free_list(head->next);
-	free(head->str);
-	free(head);
+	node = head;
+	if (node->next != NULL)
+		end = node->next;
+	else
+	{
+		free(node->str);
+		free(node);
+		return;
+	}
+
+	while (node != NULL)
+	{
+		free(node->str);
+		free(node);
+		node = end;
+		if (end->next != NULL)
+			end = end->next;
+		else
+		{
+			free(end->str);
+			free(end);
+			break;
+		}
+	}
 }
