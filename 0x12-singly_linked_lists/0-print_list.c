@@ -2,6 +2,15 @@
 #include <stdio.h>
 #include "lists.h"
 
+/**
+ * print_list - function that prints all 
+ * elements of a list_t list.
+ *
+ * @h: struct
+ *
+ * Return: number of nodes
+ */
+
 size_t print_list(const list_t *h)
 {
 	int c = 0;
