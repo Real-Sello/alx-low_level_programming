@@ -1,5 +1,5 @@
 #ifndef _MAIN_H_
-#define _Main_H_
+#define _MAIN_H_
 
 /* included Libraries */
 
