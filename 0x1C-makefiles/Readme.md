@@ -2,8 +2,8 @@
 `C`
 <img src="/images/giphy-2.gif">
 
-##Requirements
-###General
+## Requirements
+### General
 - Allowed editors: `vi`, `vim`, `emacs`
 - OS: Ubuntu 20.04 LTS
 - Version of `gcc`: 9.3.0
